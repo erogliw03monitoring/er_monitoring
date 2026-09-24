@@ -1,0 +1,1 @@
+patient_id, fio,birth_date, gender, registration_address, actual_address, phone, oms_policy_number, snils, workplace, registration_date
